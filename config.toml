@@ -1,4 +1,4 @@
-baseURL = "http://192.168.1.108"
+baseURL = "https://gamerita14.github.io"
 languageCode = "it-IT"
 title = "L' Angolo Del Dolce"
 theme = "ananke"
@@ -9,5 +9,5 @@ DefaultContentLanguage = "it"
   background_color_class = "bg-light-red"
   facebook="https://www.facebook.com/gorga.carmine"
   contatti="/post/contatti"
-  featured_image = "/resources/_gen/images/logo.jpg"
+  featured_image = "/Immagini/logo.jpg"
   recent_posts_number = 2
