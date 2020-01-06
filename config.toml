@@ -1,0 +1,13 @@
+baseURL = "http://192.168.1.108"
+languageCode = "it-IT"
+title = "L' Angolo Del Dolce"
+theme = "ananke"
+DefaultContentLanguage = "it"
+
+
+[params]
+  background_color_class = "bg-light-red"
+  facebook="https://www.facebook.com/gorga.carmine"
+  contatti="/post/contatti"
+  featured_image = "/resources/_gen/images/logo.jpg"
+  recent_posts_number = 2
